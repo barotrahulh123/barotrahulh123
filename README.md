@@ -1,3 +1,7 @@
+### Hi there 👋
+
+
+```javascript
 const aboutMe = {
    name: "Rahul Brahmbhatt",
    pronouns: "he" | "him",
@@ -12,3 +16,4 @@ const aboutMe = {
    currentOccupation: ["Open for job opportunities"],
    hobbies: ["Listening Music", "Travelling"],
 };
+```
