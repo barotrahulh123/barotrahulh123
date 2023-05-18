@@ -8,8 +8,11 @@ const aboutMe = {
    code: [Javascript, Node],
    technologies: {
       frontEnd: {
-         js: ["Angular"],
+         js: ["Angular","Vue"],
          css: ["Material UI", "Bootstrap"]
+      },
+      backend: {
+         js: ["Node.js","PHP"],
       },
       databases: ["PostgresSQL", "SQL", "MongoDB"],
    },
