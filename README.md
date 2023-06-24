@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 
-<p>Welcome to my page! </br> I'm Rahul, Fullstack developer from <img src="https://github.com/barotrahulh123/barotrahulh123/blob/main/assets/flag.png" width="13"/> <b>India </b> </p>
+<p>Welcome to my page! </br> I'm Rahul, Fullstack developer from <img src="https://github.com/barotrahulh123/barotrahulh123/blob/main/assets/flag.png" width="16"/> <b>India </b> </p>
 <h3>Things I code with</h3>
 <p>
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
