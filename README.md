@@ -2,11 +2,13 @@
 
 
 <p>Welcome to my page! </br> I'm Rahul, Fullstack developer from <img src="https://github.com/barotrahulh123/barotrahulh123/blob/master/assets/flag.png" width="13"/> <b>India</b>, Living in Ahmedabad, Gujrat </p>
+<p>Welcome to my page! </br> I'm Rahul, Fullstack developer from <img src="https://github.com/barotrahulh123/barotrahulh123/blob/master/assets/flag.png" width="13"/> <b>India</b>, Living in Ahmedabad, Gujrat </p>
 <h3>Things I code with</h3>
 <p>
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
+   <img alt="AmazonAws" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"  width="11%"/>
    <img alt="AmazonAws" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"  width="11%"/>
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
