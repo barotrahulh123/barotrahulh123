@@ -30,12 +30,12 @@ async function setWeatherInformation() {
       DATA.sun_rise = new Date(r.sys.sunrise * 1000).toLocaleString('en-GB', {
         hour: '2-digit',
         minute: '2-digit',
-        timeZone: 'Europe/Stockholm',
+        timeZone: 'Asia/Calcutta',
       });
       DATA.sun_set = new Date(r.sys.sunset * 1000).toLocaleString('en-GB', {
         hour: '2-digit',
         minute: '2-digit',
-        timeZone: 'Europe/Stockholm',
+        timeZone: 'Asia/Calcutta',
       });
     });
 }
