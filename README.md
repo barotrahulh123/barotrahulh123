@@ -48,7 +48,7 @@
   <li><a href="https://medium.com/@rahulh123/how-to-use-map-filter-and-reduce-in-javascript-7cae3117c1f0" target="_blank"><b>How to Use Map, Filter, and Reduce in JavaScript</b></li>
 </ul>
 
-<br/>Currently, the weather is: <b> 27°C, <i>haze</i></b></br>Today, the sun rises at <b>06:13</b> and sets at <b>19:02</b>.</p>
+<br/>Currently, the weather is: <b> 28°C, <i>smoke</i></b></br>Today, the sun rises at <b>06:13</b> and sets at <b>19:02</b>.</p>
 
 <h3>Where to find me</h3>
 <p><a href="https://www.linkedin.com/in/rb786" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://medium.com/@rahulh123" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a> <a href="https://twitter.com/rahulatindia" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://github.com/barotrahulh123" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
