@@ -1,10 +1,7 @@
-<h1> Hi there! I'm Rahul Bhrambhatt. 👋</h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-- 👩‍💻 Developer with more than 6 years experience
-- 🔭 I’m currently working on Node.js
-- 💬 Ask me about Meanstack
-- ⚡  Fun fact: Keep Learning
 
+<p>Welcome to my page! </br> I'm Rahul, Fullstack developer from <img src="https://github.com/barotrahulh123/barotrahulh123/blob/master/assets/flag.png" width="13"/> <b>India</b>, Living in Ahmedabad, Gujrat </p>
 <h3>Things I code with</h3>
 <p>
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
@@ -51,16 +48,14 @@
   <li><a href="https://medium.com/@rahulh123/how-to-use-map-filter-and-reduce-in-javascript-7cae3117c1f0" target="_blank"><b>How to Use Map, Filter, and Reduce in JavaScript</b></li>
 </ul>
 
-<br/>Currently, the weather is: <b> 40°C, <i>broken clouds</i></b></br>Today, the sun rises at <b>05:54</b> and sets at <b>19:20</b>.</p>
+<br/>Currently, the weather is: <b> 36°C, <i>smoke</i></b></br>Today, the sun rises at <b>05:54</b> and sets at <b>19:20</b>.</p>
 
 <h3>Where to find me</h3>
 <p><a href="https://www.linkedin.com/in/rb786" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://medium.com/@rahulh123" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a> <a href="https://twitter.com/rahulatindia" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://github.com/barotrahulh123" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
 </p>
 
 ------------
-![](https://komarev.com/ghpvc/?username=barotrahulh123&color=blue&style=flat)
+<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Friday, 31 May, 19:38 GMT+5:30<br />
 
-<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Friday, 31 May, 17:41 GMT+5:30<br />
-<p align="center">
-<img src="https://github.com/barotrahulh123/barotrahulh123/workflows/README%20build/badge.svg" /> 
+<p align="center"><img src="https://github.com/barotrahulh123/barotrahulh123/workflows/README%20build/badge.svg" /> 
 <img alt="Stars" src="https://img.shields.io/github/stars/barotrahulh123/barotrahulh123?style=flat-square&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/barotrahulh123/barotrahulh123?style=flat-square&labelColor=343b41"/></p>
