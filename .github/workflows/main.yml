@@ -12,24 +12,41 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: checkout
-        uses: actions/checkout@v1
-      - name: setup node
-        uses: actions/setup-node@v1
+      - name: Checkout code
+        uses: actions/checkout@v2  # Use v2 for more features
+        with:
+          fetch-depth: 0  # Fetch all history for proper commit pushing
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v3  # Use the latest version
         with:
           node-version: '17.x'
-      - name: cache
-        uses: actions/cache@v1
+
+      - name: Cache Node modules
+        uses: actions/cache@v3  # Use the latest version
         with:
           path: node_modules
-          key: ${{ runner.os }}-js-${{ hashFiles('package-lock.json') }}
+          key: ${{ runner.os }}-node-${{ hashFiles('package-lock.json') }}
+          restore-keys: |
+            ${{ runner.os }}-node-
+
       - name: Install dependencies
         run: npm install
+
       - name: Generate README file
         run: node index.js
         env:
-          OPEN_WEATHER_MAP_KEY: ${{secrets.OPEN_WEATHER_MAP_KEY}}
-      - name: Push new README.md
-        uses: mikeal/publish-to-github-action@master
+          OPEN_WEATHER_MAP_KEY: ${{ secrets.OPEN_WEATHER_MAP_KEY }}
+
+      - name: Configure git
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+
+      - name: Commit and push changes
+        run: |
+          git add README.md
+          git commit -m "Update README"
+          git push
         env:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
