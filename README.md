@@ -1,10 +1,7 @@
-<h1> Hi there! I'm Rahul Bhrambhatt. 👋</h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-- 👩‍💻 Developer with more than 6 years experience
-- 🔭 I’m currently working on Node.js
-- 💬 Ask me about MeanStack
-- ⚡  Fun fact: Keep Learning
 
+<p>Welcome to my page! </br> I'm Rahul, Fullstack developer from <img src="https://github.com/barotrahulh123/barotrahulh123/blob/master/assets/flag.png" width="13"/> <b>India</b>, Living in Ahmedabad, Gujrat </p>
 <h3>Things I code with</h3>
 <p>
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
@@ -58,7 +55,7 @@
 </p>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Tuesday, 25 June, 19:20 GMT+5:30<br />
+<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Tuesday, 25 June, 19:22 GMT+5:30<br />
 
 <p align="center"><img src="https://github.com/barotrahulh123/barotrahulh123/workflows/README%20build/badge.svg" /> 
 <img alt="Stars" src="https://img.shields.io/github/stars/barotrahulh123/barotrahulh123?style=flat-square&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/barotrahulh123/barotrahulh123?style=flat-square&labelColor=343b41"/></p>
